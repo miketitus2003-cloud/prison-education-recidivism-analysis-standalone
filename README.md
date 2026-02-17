@@ -47,7 +47,7 @@ To run this project:
 - [Notebook](./notebooks/final_analysis.ipynb)
 -  [Visual Outputs](./outputs)
 
-## 👨🏾‍💻 Author
+##  Author
 Michael Parham  
 Information Science  
 University of Maryland, College Park  
